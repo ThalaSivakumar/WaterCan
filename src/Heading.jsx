@@ -1,0 +1,16 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import App from './App.jsx';
+
+
+
+function Heading(){
+return (
+   <App/>
+
+
+)
+}
+
+export default Heading;
